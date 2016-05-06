@@ -1,0 +1,7 @@
+http://genetics.thetech.org/ask-a-geneticist/dna-match-siblings
+
+Research this week done on how to resolve DNA between siblings.
+
+Siblings may share 50% of DNA but have completely different markers.
+
+This is because siblings may have unique combinations of their parent's DNA. Based on statistics, it should be possible to compute the likelihood of siblings sharing DNA sequences vs having no similarities.
