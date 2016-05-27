@@ -280,9 +280,6 @@ var Experiment = {
             console.log('ind1000, ' + indStat1000);
             console.log('ind2000, ' + indStat2000);
         });
-
-
-        //console.log('relatedStatistic: ' + relatedStatistic);
     });
   },
   run: function(length, lookingAtRelated, callback) {
