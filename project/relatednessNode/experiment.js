@@ -27,7 +27,7 @@ var Experiment = {
   execute: function(){
     var _this = this;
     var lengths = [10, 50, 100, 250, 500, 1000, 2000];
-    var frequency = 0.10;
+    var frequency = 0.20;
     var passFrequency = frequency * 100;
     var relStat10 = 0.0;
     var relStat50 = 0.0;
